@@ -10,7 +10,7 @@ Data Model Project, It Is Built On Python And Postgres Database
 ## Database Schema
 
 [link](http://www.databaseanswers.org/data_models/health_centres/health_centres_data_mart.htm)
-![Image of Star Schema](http://www.databaseanswers.org/data_models/health_centres/images/health_centres_data_mart_model.gif) 
+![Image of Star Schema](https://raw.githubusercontent.com/Abdelrhman-Yassein/Health-Center-Data-Model-Project-With-Postgres/main/health_centres_data_mart_model.png) 
 
 
  ## Project structure
