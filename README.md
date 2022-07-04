@@ -31,7 +31,7 @@ Files used on the project:
 
 ### Break down of steps followed
 
-1 - [create_table_connection.py](https://github.com/Abdelrhman-Yassein/Health_Center_Data_Model_Project/blob/master/create_table_connection.py) : change postgres user and password to your user and password
+1 - [create_table_connection.py](https://github.com/Abdelrhman-Yassein/Health_Center_Data_Model_Project/blob/master/create_table_connection.py) : change postgres user and password to your user and password 
 
 ![](https://github.com/Abdelrhman-Yassein/Health_Center_Data_Model_Project/blob/master/Capture.PNG)
 
